@@ -29,7 +29,8 @@ git clone https://github.com/erfanxxx/text-passworder
 ```
 cd text-passworder
 
-pip install -r
+pip install -r requirements.txt
+
 ```
 
 
