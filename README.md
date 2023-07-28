@@ -1,7 +1,3 @@
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
 <h1 align="center">Text-passworder</h1>
 
 <p align="center"><img src="https://www.seculore.com/hs-fs/hubfs/Images/Active%20Images/Webinar%20Images/Secure%20Communications.jpeg?width=640&height=350&name=Secure%20Communications.jpeg"/></p>
@@ -17,20 +13,11 @@ h1 {
  
 <br>
 
-
+```
 git clone https://github.com/erfanxxx/text-passworder
 
+```
 
 
 
-<span color="red">red</span>
-  <span color="orange">orange</span>
-<span color="yellow">yellow</span>
-  <span color="lime">lime</span>
-<span color="green">green</span>
-  <span color="turquoise">turquoise</span>
-  <span color="cyan">cyan</span>
-<span color="blue">blue</span>
-  <span color="purple">purple</span>
-  <span color="magenta">magenta</span>
-<span color="red">red</span>
+
