@@ -6,7 +6,7 @@
 
 
 
-### [ⓘ]The app was written with python
+### [i] The app was written with the power of python
 
 # instalation
 
