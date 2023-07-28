@@ -1,3 +1,7 @@
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
 <h1 align="center">Text-passworder</h1>
 
 <p align="center"><img src="https://www.seculore.com/hs-fs/hubfs/Images/Active%20Images/Webinar%20Images/Secure%20Communications.jpeg?width=640&height=350&name=Secure%20Communications.jpeg"/></p>
