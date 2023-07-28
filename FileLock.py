@@ -50,7 +50,7 @@ def set_window():
     window = tk.Tk()
     window.geometry("400x300")
     path = os.getcwd()
-    icon_address = path+'/icons/lock1.jpg'
+    icon_address = path+'/lock1.jpg'
     _ico = Image.open(icon_address)
     ico = ImageTk.PhotoImage(_ico)
     window.wm_iconphoto(False, ico)
