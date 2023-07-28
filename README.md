@@ -7,7 +7,11 @@
 
 # instalation
 
+<br>
 - Download the repostory
+<br>
+
 ```
- python | 
---------|
+git clone https://github.com/erfanxxx/text-passworder
+
+```
