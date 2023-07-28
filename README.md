@@ -3,10 +3,10 @@ Set password for your text easily
 
 # instalation
 
-<font color="lightseagreen">
- Python   |
+
+<font color="lightseagreen"> Python </font>  |
 ----------|
-</font>
+
 
 
 
