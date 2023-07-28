@@ -13,10 +13,9 @@
  
 <br>
 
-```
+
 git clone https://github.com/erfanxxx/text-passworder
 
-```
 
 
 <pre>
