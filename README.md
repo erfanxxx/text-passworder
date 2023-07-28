@@ -10,7 +10,7 @@
 <br>
 
 - Download the repostory
-- 
+ 
 <br>
 
 ```
