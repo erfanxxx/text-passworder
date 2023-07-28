@@ -21,3 +21,7 @@ git clone https://github.com/erfanxxx/text-passworder
 
 
 
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
