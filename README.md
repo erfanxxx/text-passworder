@@ -14,6 +14,6 @@
 <br>
 
 ```
-git clone https://github.com/erfanxxx/text-passworder
+- git clone https://github.com/erfanxxx/text-passworder
 
 ```
