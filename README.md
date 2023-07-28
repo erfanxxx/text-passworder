@@ -4,9 +4,11 @@
 
 <h2 align="center">Lets try to test it and set password for your textes</h2>
 
-
+<br>
 
 ### [i] The app was written with the power of python
+
+<br>
 
 # instalation
 
