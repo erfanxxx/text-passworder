@@ -23,12 +23,13 @@ git clone https://github.com/erfanxxx/text-passworder
 
 ```
 <br>
+
 - Then go to the folder and install
 
 ```
 cd text-passworder
 
 pip install -r
-
+```
 
 
