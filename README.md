@@ -6,7 +6,7 @@
 
 <br>
 
-### #[i] The app was written with the power of python
+<h1><big>[i]</big> The app was written with the power of python</h1>
 
 <br>
 
