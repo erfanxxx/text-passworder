@@ -61,6 +61,6 @@ python FileLock.py
 
 #### Then you will sea this window
 <p align="canter">
-<img src="http://ds2.rf.gd/my-github-images/screen-app.png?i=1"/>
+<img src="https://s8.uupload.ir/files/screen-app_97v3.png"/>
 </p>
 <br><br<
