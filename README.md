@@ -36,6 +36,7 @@ pip install -r requirements.txt
 <br>
 
 - what are the non standard libraries for?
+  
 
 Tkinter  | To set more beautiful window for the program 
 ---------|-----------------------------------------------
