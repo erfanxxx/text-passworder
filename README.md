@@ -39,8 +39,7 @@ pip install -r requirements.txt
 
 Tkinter  | To set more beautiful window for the program 
 ---------|-----------------------------------------------
-Pillow   | To place images in the tkinter window
----------|-----------------------------------------------
+Pillow   | To place images in the tkinter window  
 Colorama | To give style and color to texts
 
 
