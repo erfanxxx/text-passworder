@@ -48,3 +48,12 @@ Colorama | To give style and color to texts
 
 
 # Usage
+<br>
+
+### Lock a file
+
+```
+python FileLock.py
+
+```
+
