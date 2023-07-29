@@ -6,7 +6,7 @@
 
 <br>
 
-### [i] The app was written with the power of python
+### #[i] The app was written with the power of python
 
 <br>
 
@@ -24,7 +24,7 @@ git clone https://github.com/erfanxxx/text-passworder
 ```
 <br>
 
-- Then go to the folder and install
+- Then go to the folder and install required libraries
 
 ```
 cd text-passworder
