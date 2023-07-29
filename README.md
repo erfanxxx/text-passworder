@@ -63,4 +63,8 @@ python FileLock.py
 <p align="canter">
 <img src="https://s8.uupload.ir/files/screen-app_97v3.png"/>
 </p>
-<br><br<
+<br><br>
+#### After that the app shows you the information of file path
+<p align="center">
+ <img src="https://s8.uupload.ir/files/file-i_a8b8.png">
+</p>
