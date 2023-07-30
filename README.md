@@ -70,3 +70,7 @@ python FileLock.py
 <p align="center">
  <img src="https://s8.uupload.ir/files/file-i_a8b8.png">
 </p>
+
+<br>
+
+<h1 style="font-size:cursive;">You are locked this file ⭐</h1>
