@@ -104,4 +104,6 @@ python FileUnlock.py [your file path] [your file password]
 
 <br><br>
 
-```
+#### Now you are unlocked this locked file in the unlocked-files folder
+
+``
