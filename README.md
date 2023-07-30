@@ -59,7 +59,7 @@ python FileLock.py
 
 <br>
 
-#### Then you will sea this window
+#### Then you will see this window
 <p align="canter">
 <img src="https://s8.uupload.ir/files/screen-app_97v3.png"/>
 </p>
@@ -73,4 +73,12 @@ python FileLock.py
 
 <br>
 
-<h1 style="font-size:cursive;">You are locked this file ⭐</h1>
+#### Now you can see a LF file in the locked-files folder
+
+<p align="center">
+ <img src="https://s8.uupload.ir/files/show-output_key.png">
+</p>
+
+<br><br>
+
+### You are locked this file ⭐
