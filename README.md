@@ -82,3 +82,26 @@ python FileLock.py
 <br><br>
 
 ### You are locked this file ⭐
+
+<br><br><br>
+
+### Unlock a file
+
+<br><br>
+
+
+```
+python FileUnlock.py [your file path] [your file password]
+
+```
+<br>
+
+#### Example
+
+<p align="center">
+ <img src="https://s8.uupload.ir/files/cmd-unlock_6fur.png">
+</p>
+
+<br><br>
+
+```
