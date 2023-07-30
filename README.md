@@ -14,8 +14,8 @@
 
 <br><br>
 
-- Download the repostory
- 
+- Download the repository
+
 <br>
 
 ```
@@ -104,6 +104,14 @@ python FileUnlock.py [your file path] [your file password]
 
 <br><br>
 
-#### Now you are unlocked this locked file in the unlocked-files folder
+#### Now you are unlocked this locked file in the unlocked-files folder 😎
 
-``
+<p align="canter">
+ <img src="https://s8.uupload.ir/files/unlock_qg7v.png">
+</p>
+
+<br>
+<br><br>
+
+### Thank you to use, please give this repository star
+ 
