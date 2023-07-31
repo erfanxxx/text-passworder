@@ -113,5 +113,5 @@ python FileUnlock.py [your file path] [your file password]
 <br>
 <br><br>
 
-### Thank you to use, please give this repository star
+### Thank you to use, please give star to this repository
  
