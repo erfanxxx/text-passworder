@@ -38,10 +38,11 @@ pip install -r requirements.txt
 - what are the non standard libraries for?
   
 
-Tkinter  | To set more beautiful window for the program 
----------|-----------------------------------------------
-Pillow   | To place images in the tkinter window  
-Colorama | To give style and color to texts
+Tkinter      | To set more beautiful window for the program 
+-------------|-----------------------------------------------
+Pillow       | To place images in the tkinter window  
+Colorama     | To give style and color to texts
+cryptography | A library for decrypting and encrypting passwords
 
 
 <br>
@@ -114,4 +115,5 @@ python FileUnlock.py [your file path] [your file password]
 <br><br>
 
 ### Thank you to use, please give star to this repository
- 
+
+
